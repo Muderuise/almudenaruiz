@@ -1,2 +1,2 @@
-# almudenaruiz.github.io
+# https://muderuise.github.io/almudenaruiz
 Curriculum Vitae
